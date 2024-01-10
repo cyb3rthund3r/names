@@ -667,7 +667,7 @@ wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/
 wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/
 wp-content/plugins/wp-support-plus-responsive-ticket-system/
 wp-content/plugins/woocommerce/
-wp-content/plugins/dzs-zoomsounds/
+wp-includes/js/tinymce/skins/lightgray/img/
 wp-content/plugins/ungallery/
 wp-content/plugins/upspy/
 wp-content/plugins/vwcleanerplugin/
